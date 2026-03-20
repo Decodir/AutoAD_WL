@@ -2,8 +2,9 @@
     "lastver": 2.0,
     "nlink": "https://raw.githubusercontent.com/Decodir/AutoAD_WL/main/AutoAD.lua",
     "one": [
-        ["Alex_Wilde", 50],
-        ["Игрок2", 500],
+        ["Alex_Wilde", 0],
+        ["Svetlana_Wilde", 0],
+        ["Nolik_Quiles", 0],
         ["Игрок3", 250]
     ],
     "two": [
